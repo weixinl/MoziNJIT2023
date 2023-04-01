@@ -8,3 +8,5 @@ helmet/*
 !terminal
 terminal/*
 !terminal.ino
+
+!readme.md
