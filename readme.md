@@ -1,4 +1,4 @@
-# Mozi Assistant System
+# Mozi Assistant
 
 ## Helmet
 
