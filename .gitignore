@@ -10,3 +10,5 @@ terminal/*
 !terminal.ino
 
 !readme.md
+
+!car/car.ino
